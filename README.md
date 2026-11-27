@@ -1,8 +1,8 @@
-RA5 – Organització del viatge a París
+#RA5 – Organització del viatge a París
 
-Aquest repositori conté el treball complet de la pràctica RA5.
+#Aquest repositori conté el treball complet de la pràctica RA5.
 
-Documentació completa
+#Documentació completa
 El document adjunt conté les quatre fases del projecte, amb les explicacions, les taules, llistes de comprovacions i les captures de pantalla.
 
 Enllaços del projecte
