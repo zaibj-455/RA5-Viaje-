@@ -40,20 +40,22 @@ Després per canviar el color li donem al tres punts que surten en la etiqueta i
 ## 4.Crear filtres
 
 Primer posem en el buscador la paraula que volem filtrar i seleccionem la ultima opció que surt a la barra de busqueda.
-
+<img width="1212" height="607" alt="image" src="https://github.com/user-attachments/assets/56e7b478-1760-4682-948c-9db6fe311768" />
 
 
 Quan ja estiguem aquí li clicarem sobre l'opció de “Crea un filtre”.
+<img width="1213" height="604" alt="image" src="https://github.com/user-attachments/assets/952ef861-3a02-4c21-bd43-571a423fc69f" />
 
 
 I per últim seleccionem l'opció de “Aplica etiqueta”, i triem a la etiqueta a la que ho volem filtrar en el meu cas vaig sel·leccionar Institut, i quan ja ho tinguem li donarem a crear filtre.
+<img width="1213" height="604" alt="image" src="https://github.com/user-attachments/assets/b531b273-7b62-4cc2-89e5-976f6fddac36" />
 
 
 Per provar si funciona o no vaig enviar un correu desde el meu movil.
-
+<img width="1213" height="604" alt="image" src="https://github.com/user-attachments/assets/013972f8-2e60-49e1-80af-fe1d115f075c" />
 I com es veu si funciona.
 
-5. Activa la resposta automatica
+## 5. Activa la resposta automatica
 
 Primer anem a la configuració, i en el primer apartat baixem fins al final i en el assumpte posem el missatge que volem o també ho podem posar en el la part del missatge i cliquem sobre “Desa el canvis”. Això permet que quan algú et mandi un missatge li arribi una resposta automàticament per saber que l’ha rebut i per exemple en el meu cas bàsicament el veure després de vacances.
 
