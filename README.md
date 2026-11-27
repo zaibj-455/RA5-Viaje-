@@ -1,4 +1,4 @@
-RA5 – Organització del viatge a París
+RA5 – Viatge a París
 
 #Aquest repositori conté el treball complet de la pràctica RA5.
 
@@ -8,8 +8,10 @@ Enllaços del projecte
 - Google Maps: [Ruta del viatge](https://www.google.com/maps/dir/Santa+Coloma+de+Gramenet,+Barcelona/Marsella,+Fran%C3%A7a/Par%C3%ADs,+Fran%C3%A7a/Santa+Coloma+de+Gramenet,+Barcelona/@45.0341509,-1.6788207,6z/data=!4m26!4m25!1m5!1m1!1s0x12a4bc87d8dda1f5:0x62a5c003c7b27b8!2m2!1d2.2110649!2d41.4508737!1m5!1m1!1s0x12c9bf4344da5333:0x40819a5fd970220!2m2!1d5.3690743!2d43.3025742!1m5!1m1!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!2m2!1d2.3513765!2d48.8575475!1m5!1m1!1s0x12a4bc87d8dda1f5:0x62a5c003c7b27b8!2m2!1d2.2110649!2d41.4508737!3e0?entry=ttu&g_ep=EgoyMDI2MTEyMy4wIKXMDSoASAFQAw%3D%3D)
 - Google Sheets: [Cost del viatge](https://docs.google.com/spreadsheets/d/1BLjb5Zr3LA6biWZAvja-0SJgVrj8PPxp6mMB0FDfN1c/edit?usp=sharing)
 
-Practica RA.5 organiza un viatge amb Google
+Practica RA.5 organiza un viatge amb Google Maps
+
 Fase 1: El correu
+
 1.-Llistat de sis eines de Google:
 
 <img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/fc63178f-a276-4e5f-a278-f8d0627685e2" />
@@ -18,6 +20,7 @@ Fase 1: El correu
 
 
 2.-Diferencia entre IMAP i POP3
+
 El IMAP permet veure els correus des de diferents dispositius i manté els missatges sincronitzats. I el POP3 descarrega els correus en un dispositiu i no sempre els sincronitza amb els altres persones.
 
 
@@ -29,57 +32,49 @@ El IMAP permet veure els correus des de diferents dispositius i manté els missa
 
 
 3.Crear l’etiqueta de l’institut
+
 Primer li donem al més que surt on està la part de Etiquetas i després posem institut en la part del nom i li donem a crea.
+<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/6eddbb3d-7572-4293-808b-2a9261030e27" />
 
 Després per canviar el color li donem al tres punts que surten en la etiqueta i cliquem sobre el color de la etiqueta i la canviem a verd.
-
+<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/fc825623-0825-481d-8715-41176037b3a2" />
 
 4.Crear filtres
-Primer posem en el buscador la paraula que volem filtrar i sel·leccionem la ultima opció que surt a la barra de busqueda.
+
+Primer posem en el buscador la paraula que volem filtrar i seleccionem la ultima opció que surt a la barra de busqueda.
+<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/38994372-2511-467f-9066-4fe2da1da212" />
 
 Quan ja estiguem aquí li clicarem sobre l'opció de “Crea un filtre”.
+<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/fe84f59d-77e3-4c00-b21e-26d612a76b02" />
 
-I per últim sel·leccionem l'opció de “Aplica etiqueta”, i triem a la etiqueta a la que ho volem filtrar en el meu cas vaig sel·leccionar Institut, i quan ja ho tinguem li donarem a crear filtre.
-
-
+I per últim seleccionem l'opció de “Aplica etiqueta”, i triem a la etiqueta a la que ho volem filtrar en el meu cas vaig sel·leccionar Institut, i quan ja ho tinguem li donarem a crear filtre.
+<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/166da85f-bf58-4905-8dac-f844622aef9f" />
 
 Per provar si funciona o no vaig enviar un correu desde el meu movil.
-
+<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/9e5701ce-b68d-4a44-b4db-6ddb0f8a151a" />
 I com es veu si funciona.
 
 5. Activa la resposta automatica
-Primer anem a la configuració, i en el primer apartat baixem fins al final i en el assumpte posem el missatge que volem o també ho podem posar en el la part del missatge i cliquem sobre “Desa el canvis”. Això permet que quan algú et mandi un missatge li arribi una resposta automàticament per saber que l’ha rebut i per exemple en el meu cas bàsicament el veure després de vacances.
 
+Primer anem a la configuració, i en el primer apartat baixem fins al final i en el assumpte posem el missatge que volem o també ho podem posar en el la part del missatge i cliquem sobre “Desa el canvis”. Això permet que quan algú et mandi un missatge li arribi una resposta automàticament per saber que l’ha rebut i per exemple en el meu cas bàsicament el veure després de vacances.
+<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/cd8c9d57-4b3f-435b-a442-b360f2d5a608" />
 
 Fase 2: Comprovar el accés
 1.- Accés IMAP
+
 He comprovat la configuració del correu. Es mostra la configuració d'accés IMAP.
-
-
-
-
-
-
+<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/fc9e53bb-7b51-433d-bd0e-3ff1863fcf1c" />
 
 Taula de paràmetres:
-
-Paràmetres 
-Resultats
-Servei
-IMAP
-Estado en Gmail personal 
-Sempre activat
-Acceso desde otros clientes 
-Permet mediant OAuth 
-Seguretat
-Autenticació segura 
-Administrador
-Pot aplica restriccions en comptes educatius 
+<img width="599" height="216" alt="image" src="https://github.com/user-attachments/assets/d61d1080-fc9b-47ac-9d91-b554ef95c06c" />
 
 2.- Enviar un missatge amb l’etiqueta
+
 Aquí es pot veure que em vaig envia un correu al meu compte personal on surt l’etiqueta que toca.
+<img width="599" height="216" alt="image" src="https://github.com/user-attachments/assets/d8ce4b03-3183-4830-8a5c-5595e9c5415e" />
 
 3.- Respondre el missatge
+
 Aquí vaig respondre el missatge que vaig rebre de mi mateix desde del compte persona, i també vaig comprovar si arribava sin problema, i si va arribar al moment.
 
 
