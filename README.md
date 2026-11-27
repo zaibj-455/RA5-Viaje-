@@ -117,8 +117,10 @@ Paris
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6272369-c07e-4fc0-bc94-962bbe514fa8" />
 
 
-Pressupost  de la Gasolina 
+### Pressupost  de la Gasolina 
+
 -350/400€ 
+
 La ruta sencera més o menys seria uns 2300km més els kilòmetres que utilitzarem per visitar llocs en Marsella i Paris que serán uns 150/200km. 
 El total de tot això seràn uns 2450/2500 km.
 <img width="1213" height="620" alt="image" src="https://github.com/user-attachments/assets/c022331d-c146-45e1-92f8-7eb9b143bfb7" />
