@@ -61,73 +61,52 @@ I com es veu si funciona.
 ## 5. Activa la resposta automatica
 
 Primer anem a la configuració, i en el primer apartat baixem fins al final i en el assumpte posem el missatge que volem o també ho podem posar en el la part del missatge i cliquem sobre “Desa el canvis”. Això permet que quan algú et mandi un missatge li arribi una resposta automàticament per saber que l’ha rebut i per exemple en el meu cas bàsicament el veure després de vacances.
+<img width="1213" height="608" alt="image" src="https://github.com/user-attachments/assets/a4a978f4-318a-43c5-bdfc-204e9da5ffd6" />
 
 
-Fase 2: Comprovar el accés
-1.- Accés IMAP
+# Fase 2: Comprovar el accés
+## 1.- Accés IMAP
 
 He comprovat la configuració del correu. Es mostra la configuració d'accés IMAP.
+<img width="1042" height="594" alt="image" src="https://github.com/user-attachments/assets/d7b7fe95-865e-4df1-a14a-49b4a39eb739" />
 
 
 Taula de paràmetres:
+---
+<img width="1202" height="434" alt="image" src="https://github.com/user-attachments/assets/773ffe12-5e09-4aae-9e0d-8ca2167f737d" />
 
 
-2.- Enviar un missatge amb l’etiqueta
+## 2.- Enviar un missatge amb l’etiqueta
 
 Aquí es pot veure que em vaig envia un correu al meu compte personal on surt l’etiqueta que toca.
+<img width="1203" height="607" alt="image" src="https://github.com/user-attachments/assets/cf5d208a-1bb7-4bee-a129-d4629e200095" />
 
 
-3.- Respondre el missatge
+## 3.- Respondre el missatge
 
 Aquí vaig respondre el missatge que vaig rebre de mi mateix desde del compte persona, i també vaig comprovar si arribava sin problema, i si va arribar al moment.
+<img width="1204" height="625" alt="image" src="https://github.com/user-attachments/assets/401164d8-7beb-43a7-8921-98bad8c5bb13" />
 
-
-
-
-
-4.- Missatge Original i explicar que diuen SPF, DKIM i DMARC
+## 4.- Missatge Original i explicar que diuen SPF, DKIM i DMARC
 Això ho estic veient desde el compte de l'institut, que és el missatge original del correu que vaig enviar desde el meu compte personal SPF, DKIM i DMARC.
-
-
+<img width="1205" height="632" alt="image" src="https://github.com/user-attachments/assets/35a85a7b-cd11-4ba5-98b7-97cbaea28531" />
 
 - SPF: indica que el servidor que envia el correu està autoritzat.
 - DKIM: indica que la signatura digital del correu és correcta.
 - DMARC: indica que el correu compleix les normes d'autenticació.
-5. Proves del Correu
-Proves del correu
-Funciona o no?
-Enviar un correu
-Si
-Rebre un correu
-Si
-Respondre un correu 
-Si
-Crear Filtres
-Si
-Aplicar Etiquetes
-Si
-Comprovar filtres
-Si
-Activar resposta automàtica
-Si
-Enviar correo per comprovar la resposta automática
-Si
-Rebre la resposta automatica
-Si
-Comprovar el funcionament en general
-Si
-
+  
+## 5. Proves del Correu
+<img width="1062" height="644" alt="image" src="https://github.com/user-attachments/assets/443f44ba-e852-46cc-a3c7-bb05431cb013" />
 
 Resposta automatica:
+<img width="1214" height="550" alt="image" src="https://github.com/user-attachments/assets/6bd6a636-d208-4410-b846-9a38a4ed9472" />
 
-Fase 3: El viatge
+# Fase 3: El viatge
 1. Dibuixa la ruta en el Google Maps
-Enllaç de la Ruta:
-45° 2' 2.9432" N 1° 40' 43.7545" W
+Google Maps: [Ruta del viatge](https://www.google.com/maps/dir/Santa+Coloma+de+Gramenet,+Barcelona/Marsella,+Fran%C3%A7a/Par%C3%ADs,+Fran%C3%A7a/Santa+Coloma+de+Gramenet,+Barcelona/@45.0341509,-1.6788207,6z/data=!4m26!4m25!1m5!1m1!1s0x12a4bc87d8dda1f5:0x62a5c003c7b27b8!2m2!1d2.2110649!2d41.4508737!1m5!1m1!1s0x12c9bf4344da5333:0x40819a5fd970220!2m2!1d5.3690743!2d43.3025742!1m5!1m1!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!2m2!1d2.3513765!2d48.8575475!1m5!1m1!1s0x12a4bc87d8dda1f5:0x62a5c003c7b27b8!2m2!1d2.2110649!2d41.4508737!3e0?entry=ttu&g_ep=EgoyMDI2MTEyMy4wIKXMDSoASAFQAw%3D%3D)
 
-
-Pressposts
-Santa Coloma de Gramenet → Marsella
+## Pressposts
+### Santa Coloma de Gramenet → Marsella
 
 Marsella
 2 nits + Parking
@@ -205,28 +184,6 @@ Com es pot veure ya la tenim activada de l’altra practica.
 
 3. Llista de Proves
 
-Prova
-Si o no
-El calendari està creat correctament
-Si
-Convidat
-Si
-Recordatori
-Si
-Calendari
-Si
-Tasques
-Si
-L’hi arriba la invitació al company i ha respost
-Si
-Apareixen 7 dies de viatge
-Si
-Repetició de l’esdeveniment fins al final
-Si
-Es mencionen les activitats que es faran cada dia
-Si
-El company pot consultar les activitats
-Si
 
 
 
