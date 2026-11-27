@@ -25,53 +25,50 @@ El IMAP permet veure els correus des de diferents dispositius i manté els missa
 
 
 
-
-
-
-
-
-
 3.Crear l’etiqueta de l’institut
 
 Primer li donem al més que surt on està la part de Etiquetas i després posem institut en la part del nom i li donem a crea.
-<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/6eddbb3d-7572-4293-808b-2a9261030e27" />
+<img width="814" height="419" alt="image" src="https://github.com/user-attachments/assets/ba4186c0-ed12-4e37-91bb-04344c979004" />
+
+
+
 
 Després per canviar el color li donem al tres punts que surten en la etiqueta i cliquem sobre el color de la etiqueta i la canviem a verd.
-<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/fc825623-0825-481d-8715-41176037b3a2" />
+
 
 4.Crear filtres
 
 Primer posem en el buscador la paraula que volem filtrar i seleccionem la ultima opció que surt a la barra de busqueda.
-<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/38994372-2511-467f-9066-4fe2da1da212" />
+
 
 Quan ja estiguem aquí li clicarem sobre l'opció de “Crea un filtre”.
-<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/fe84f59d-77e3-4c00-b21e-26d612a76b02" />
+
 
 I per últim seleccionem l'opció de “Aplica etiqueta”, i triem a la etiqueta a la que ho volem filtrar en el meu cas vaig sel·leccionar Institut, i quan ja ho tinguem li donarem a crear filtre.
-<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/166da85f-bf58-4905-8dac-f844622aef9f" />
+
 
 Per provar si funciona o no vaig enviar un correu desde el meu movil.
-<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/9e5701ce-b68d-4a44-b4db-6ddb0f8a151a" />
+
 I com es veu si funciona.
 
 5. Activa la resposta automatica
 
 Primer anem a la configuració, i en el primer apartat baixem fins al final i en el assumpte posem el missatge que volem o també ho podem posar en el la part del missatge i cliquem sobre “Desa el canvis”. Això permet que quan algú et mandi un missatge li arribi una resposta automàticament per saber que l’ha rebut i per exemple en el meu cas bàsicament el veure després de vacances.
-<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/cd8c9d57-4b3f-435b-a442-b360f2d5a608" />
+
 
 Fase 2: Comprovar el accés
 1.- Accés IMAP
 
 He comprovat la configuració del correu. Es mostra la configuració d'accés IMAP.
-<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/fc9e53bb-7b51-433d-bd0e-3ff1863fcf1c" />
+
 
 Taula de paràmetres:
-<img width="599" height="216" alt="image" src="https://github.com/user-attachments/assets/d61d1080-fc9b-47ac-9d91-b554ef95c06c" />
+
 
 2.- Enviar un missatge amb l’etiqueta
 
 Aquí es pot veure que em vaig envia un correu al meu compte personal on surt l’etiqueta que toca.
-<img width="599" height="216" alt="image" src="https://github.com/user-attachments/assets/d8ce4b03-3183-4830-8a5c-5595e9c5415e" />
+
 
 3.- Respondre el missatge
 
