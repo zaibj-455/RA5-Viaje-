@@ -1,44 +1,46 @@
-##RA5 – Viatge a París
+# RA5 – Viatge a París
 
-#Aquest repositori conté el treball complet de la pràctica RA5.
+## Aquest repositori conté el treball complet de la pràctica RA5.
 
-Enllaços del projecte
+### Enllaços del projecte
 
 - Google Calendar: [Calendari_Zaib_Zafar](https://calendar.google.com/calendar/embed?src=c_0d013246b8ab969375b059b59a8ac736275ea579e51ee46de689a3de8d1dd736%40group.calendar.google.com&ctz=Europe%2FMadrid)
 - Google Maps: [Ruta del viatge](https://www.google.com/maps/dir/Santa+Coloma+de+Gramenet,+Barcelona/Marsella,+Fran%C3%A7a/Par%C3%ADs,+Fran%C3%A7a/Santa+Coloma+de+Gramenet,+Barcelona/@45.0341509,-1.6788207,6z/data=!4m26!4m25!1m5!1m1!1s0x12a4bc87d8dda1f5:0x62a5c003c7b27b8!2m2!1d2.2110649!2d41.4508737!1m5!1m1!1s0x12c9bf4344da5333:0x40819a5fd970220!2m2!1d5.3690743!2d43.3025742!1m5!1m1!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!2m2!1d2.3513765!2d48.8575475!1m5!1m1!1s0x12a4bc87d8dda1f5:0x62a5c003c7b27b8!2m2!1d2.2110649!2d41.4508737!3e0?entry=ttu&g_ep=EgoyMDI2MTEyMy4wIKXMDSoASAFQAw%3D%3D)
 - Google Sheets: [Cost del viatge](https://docs.google.com/spreadsheets/d/1BLjb5Zr3LA6biWZAvja-0SJgVrj8PPxp6mMB0FDfN1c/edit?usp=sharing)
 
-Practica RA.5 organiza un viatge amb Google Maps
 
-Fase 1: El correu
 
-1.-Llistat de sis eines de Google:
+## Practica RA.5 Organiza un viatge amb Google Maps
+
+# Fase 1: El correu
+
+## 1.-Llistat de sis eines de Google:
 
 <img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/fc63178f-a276-4e5f-a278-f8d0627685e2" />
 
 
 
 
-2.-Diferencia entre IMAP i POP3
+## 2.-Diferencia entre IMAP i POP3
 
 El IMAP permet veure els correus des de diferents dispositius i manté els missatges sincronitzats. I el POP3 descarrega els correus en un dispositiu i no sempre els sincronitza amb els altres persones.
 
 
-
-3.Crear l’etiqueta de l’institut
+## 3.Crear l’etiqueta de l’institut
 
 Primer li donem al més que surt on està la part de Etiquetas i després posem institut en la part del nom i li donem a crea.
-<img width="814" height="419" alt="image" src="https://github.com/user-attachments/assets/ba4186c0-ed12-4e37-91bb-04344c979004" />
-
-
+<img width="1211" height="611" alt="image" src="https://github.com/user-attachments/assets/4fcec518-e519-41ee-b1bb-81c1b819a2ed" />
 
 
 Després per canviar el color li donem al tres punts que surten en la etiqueta i cliquem sobre el color de la etiqueta i la canviem a verd.
 
+<img width="1211" height="611" alt="image" src="https://github.com/user-attachments/assets/e5b67487-2305-4979-b7bc-5d51489bfd4b" />
 
-4.Crear filtres
+
+## 4.Crear filtres
 
 Primer posem en el buscador la paraula que volem filtrar i seleccionem la ultima opció que surt a la barra de busqueda.
+
 
 
 Quan ja estiguem aquí li clicarem sobre l'opció de “Crea un filtre”.
