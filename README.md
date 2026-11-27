@@ -11,27 +11,9 @@ Practica RA.5 organiza un viatge amb Google
 Fase 1: El correu
 1.-Llistat de sis eines de Google:
 
-Eines de Google
-¿Per a que serveixen?
-¿Qui ho utilitza?
-Gmail
-Per enviar i rebre correus
-Persones que per exemple van de viatge i lis arriben el bitllets al correu
-Google Flights
-Per buscar vols
-Persones que volen viatjar
-Google Translate
-Per traduir 
-La gent que va a un altre país amb un idioma diferent al seu
-Google Hotels
-Per buscar hotels
-Viatgers
-Google Maps
-Serveix per buscar llocs i consultar rutes per hi arribar.
-Les persones que estan viatjant o estan de ruta a algun lloc.
-Google Drive
-Per guardar els documents o per exemple els bitllets
-Gent que necessita guardar coses important per així no perder-ho
+<img width="606" height="360" alt="image" src="https://github.com/user-attachments/assets/fc63178f-a276-4e5f-a278-f8d0627685e2" />
+
+
 
 
 2.-Diferencia entre IMAP i POP3
@@ -248,4 +230,3 @@ Si
 
 
 
-Enllaç Google calendar:
