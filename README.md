@@ -125,20 +125,23 @@ El total de tot això seràn uns 2450/2500 km.
 
 
 
-2. Full de Càlcul 
+## 2. Full de Càlcul 
+
 En aquest full es mostra el pressupost total, els diners restants i la cel·la **IF**.
+
 Google Sheets: [Cost del viatge](https://docs.google.com/spreadsheets/d/1BLjb5Zr3LA6biWZAvja-0SJgVrj8PPxp6mMB0FDfN1c/edit?usp=sharing)
 
-3.Compartir el full de càlcul amb el professorat
+## 3.Compartir el full de càlcul amb el professorat
+
 En aquesta captura vaig compartir el full de càlcul amb professor per a que ho pugui veure.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/67b6242f-9b02-48f8-8e12-819613aa35db" />
 
 
-4.Crear el calendari
+## 4.Crear el calendari
+
 Google Calendar: [Calendari_Zaib_Zafar](https://calendar.google.com/calendar/embed?src=c_0d013246b8ab969375b059b59a8ac736275ea579e51ee46de689a3de8d1dd736%40group.calendar.google.com&ctz=Europe%2FMadrid)
 
-
-Aquí vaig un calendari per al viatge.
+Aquí vaig fer un calendari per al viatge.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0f4ecc4-99e2-4344-a87b-021c72bcb44d" />
 
 Aquí com es pot veure ya esta creada amb el meu nom i cognom.
@@ -149,16 +152,18 @@ Aquí tenim un exemple de l'esdeveniment del dia 1 en Paris on posa les activita
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6472cfc3-3033-48bc-b845-2692b4cd2d98" />
 
 
-5. Demostra les prestacions
+## 5. Demostra les prestacions
+
 Aquí vaig compartir un esdeveniment amb un company, on vaig configurar una notificació de recordatori mitja hora abans de començar la ruta i també es pot veure que el meu company em va contestar.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd8f18c0-2de9-4dff-9e70-303934b4954c" />
 
-6.Crear llista de tasques
+## 6.Crear llista de tasques
+
 Aquí vaig posar les tasques que tenia que fer abans de començar la ruta cap a Paris.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8473f73c-330f-4c60-9d5e-c393c120c225" />
 
 
-7. Compartir el calendari amb company
+## 7.Compartir el calendari amb company
 Primer clicarem en els tres punts que surten al costat de la nostra carpeta, i després clicarem sobre l'opció de “configuració i compartició”.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3694dcf-c223-40db-939b-804a20157af7" />
 
